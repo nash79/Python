@@ -1,4 +1,4 @@
-a = "salut"
+a = "salut "
 c = 5
 def test():
   b = "test"
